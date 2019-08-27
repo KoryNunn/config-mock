@@ -1,0 +1,29 @@
+{
+  "name": "config-mock",
+  "version": "1.0.0",
+  "description": "mock for https://www.npmjs.com/package/config",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.11.0"
+  },
+  "dependencies": {
+    "config": "^3.2.2",
+    "unbox": "^1.1.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/config-mock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/config-mock/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/config-mock#readme"
+}
